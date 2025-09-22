@@ -11,7 +11,7 @@ Estos conocimientos me estan permitiendo aprender cada día más y aplicarlos en
 
 ## :wrench: Imagen del proyecto
 <p align="center">
-    <img src="https://files.fm/u/6mnn937dzb" width="500">
+    <img src="https://github.com/Felipe3838/Portafolio-Mi-Primera-P-gina-Curso/blob/main/assets/Captura%20de%20pantalla%202025-09-21%20213147.png" width="500">
   </p>
   
 ---
